@@ -11,23 +11,23 @@ This is a simple Python script for downloading YouTube videos using the `yt-dlp`
 1. Clone the repository
 2. Navigate to your project directory: 
 ```bash
-   cd path/to/your/project
+   cd path/to/your/project```
 3. Create a virtual environment (optional):
 ```bash
-   python3 -m venv venv
+   python3 -m venv venv```
 4. Activate the virtual environment:
 - On MacOs or Linux:
 ```bash
-   source venv/bin/activate
+   source venv/bin/activate```
 - On Windows:
 ```bash
-   venv\Scripts\activate
+   venv\Scripts\activate```
 5. Install ```py-dlp```:
 ```bash
-   pip install yt-dlp
+   pip install yt-dlp```
 6. Run the script:
 ```bash
-   python nameofthescript.py
+   python nameofthescript.py```
 - Enter the YouTube video URL when prompted and wait for the download to complete.
 
 ## Features
