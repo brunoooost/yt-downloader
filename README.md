@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Downloader by bst04
 
 This is a simple Python script for downloading YouTube videos using the `yt-dlp` library.
 
