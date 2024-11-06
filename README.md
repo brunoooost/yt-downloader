@@ -1,7 +1,7 @@
 # YouTube Video Downloader by bst04
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fyt-downloader&count_bg=%236EBE0B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-This is a simple Python script for downloading YouTube videos using the `yt-dlp` library. If you encounter any issues, I'd appreciate your feedback to help improve them. Also if you like some payloads you can give me a star 😉
+This is a simple Python script for downloading YouTube videos using the `yt-dlp` library. If you encounter any issues, I'd appreciate your feedback to help improve them. Also if you like some payloads you can give me a star.
 
 
 ## Requirements
